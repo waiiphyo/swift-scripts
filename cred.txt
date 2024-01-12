@@ -1,0 +1,11 @@
+nextcloud,nextcloud,4c086d89eeb62041 
+mcast,mcast,a89d5abfa401c0bc 
+sbsbackup,sbsbackup-1,nn3xxcpTmDm7E3/g8HjsSQ==
+finance,finance-1,Oa3dt4fz7wpyX2/lNwQw5w==
+test2,test2-1,089ede85668eec67
+test4,test4-1,1905e4cc67e1c984
+fintech,fintech-1,TJiEnpgnuzW4u6orX4tLPw==
+test6,test6-1,fMvIaaTbU6Et6S3a/aYp1g==
+test10,test10-1,2q+gG3///Um5CCL6ERAsYQ==
+rt,rt-1,d5IgqkfUaVMusX8g8QNsNA==
+firstbyte,firstbyte-1,6vY089OuDiY/xFpwtIMqlQ==
